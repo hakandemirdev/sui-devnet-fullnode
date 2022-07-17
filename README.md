@@ -1,1 +1,1 @@
-# sui-devnet-fullnode
+# Sui Devnet Fullnode Kurulumu
