@@ -31,3 +31,5 @@ Yükleme işlemi başarıyla tamamlanırsa full node'un çalışmaya başladığ
 https://node.sui.zvalid.com/
 
 ![This is an image](https://i.imgur.com/oWYkQCa.jpg)
+
+Node'u başarıyla kurduktan sonra sui discord kanalına gidiyoruz ve #node-ip-application kanalına ```http://ip_adresimiz:9000/``` yazıp gönderiyoruz.
