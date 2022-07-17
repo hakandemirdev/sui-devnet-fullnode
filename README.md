@@ -33,3 +33,4 @@ https://node.sui.zvalid.com/
 ![This is an image](https://i.imgur.com/oWYkQCa.jpg)
 
 Node'u başarıyla kurduktan sonra sui discord kanalına gidiyoruz ve #node-ip-application kanalına ```http://ip_adresimiz:9000/``` yazıp gönderiyoruz.
+[https://discord.gg/GUeN8TY7xD](https://discord.gg/GUeN8TY7xD)
