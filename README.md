@@ -34,3 +34,24 @@ https://node.sui.zvalid.com/
 
 Node'u başarıyla kurduktan sonra sui discord kanalına gidiyoruz ve #node-ip-application kanalına ```http://ip_adresimiz:9000/``` yazıp gönderiyoruz.
 [https://discord.gg/GUeN8TY7xD](https://discord.gg/GUeN8TY7xD)
+
+# Faydalı Komutlar
+
+Logları Kontrol Etmek İçin:
+```
+journalctl -u suid -f -o cat
+```
+Node Durumunu Kontrol Etmek İçin:
+```
+service docker status
+```
+Node'u Durdurmak İçin:
+```
+sudo systemctl stop suid
+```
+Node'u Yeniden Başlatmak İçin:
+```
+sudo systemctl restart suid
+```
+
+
