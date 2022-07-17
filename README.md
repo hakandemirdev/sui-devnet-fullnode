@@ -11,7 +11,7 @@ Minimum gereksinimler:
 ```
 sudo apt-get update  && sudo apt-get upgrade
 ```
-Daha sonra screen işletim sistemize screen kuruyoruz.
+Daha sonra işletim sistemize screen kuruyoruz.
 ```
 apt install screen
 ```
@@ -20,7 +20,6 @@ Bir screen oluşturuyoruz.
 screen -S sui
 ```
 Full Node yükleme işlemini gerçekleştirelim:
-Bir screen oluşturuyoruz.
 ```
 wget -O sui.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/sui/sui.sh && chmod +x sui.sh && ./sui.sh
 ```
