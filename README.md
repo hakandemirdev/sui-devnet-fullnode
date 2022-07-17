@@ -23,3 +23,6 @@ Full Node yükleme işlemini gerçekleştirelim:
 ```
 wget -O sui.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/sui/sui.sh && chmod +x sui.sh && ./sui.sh
 ```
+Yükleme işlemi başarıyla tamamlanırsa full node'un çalışmaya başladığına dair aşağıdaki ekranı göreceğiz.
+
+![This is an image](https://i.imgur.com/6h8OqzF.png)
