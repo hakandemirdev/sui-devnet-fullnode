@@ -26,3 +26,5 @@ wget -O sui.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/sui/s
 Yükleme işlemi başarıyla tamamlanırsa full node'un çalışmaya başladığına dair aşağıdaki ekranı göreceğiz.
 
 ![This is an image](https://i.imgur.com/6h8OqzF.png)
+
+[Node Kontrolü için bu adrese gidip sunucumuzun ip adresimizi giriyoruz.](https://node.sui.zvalid.com)
