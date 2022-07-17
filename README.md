@@ -29,3 +29,5 @@ Yükleme işlemi başarıyla tamamlanırsa full node'un çalışmaya başladığ
 
 [Node Kontrolü için bu adrese gidip sunucumuzun ip adresimizi giriyoruz.](https://node.sui.zvalid.com)
 https://node.sui.zvalid.com/
+
+![This is an image](https://i.imgur.com/oWYkQCa.jpg)
